@@ -1,11 +1,12 @@
 # Kommers design preview
 
-Public, static design gallery: Clarity Essential, Focus and Air.
+Public static gallery: three vertical-menu and three horizontal-menu Clarity variants, five desktop pages each.
 
 https://hellixir.github.io/kommers-design-preview/
 
-Five desktop screens per variant. Contains only design mockups and demo data; no application source or credentials.
+- Vertical menu: Essential, Focus, Air. Existing variant URLs are preserved.
+- Horizontal menu: Horizon, Flow, Canvas, under horizontal/.
 
-## Removing the preview
+Contains only static mockups and demo data, no application source or credentials.
 
-Disable GitHub Pages in Settings → Pages, or delete this temporary preview repository. Search-engine exclusion is advisory, not access control.
+To remove: disable GitHub Pages or delete this temporary preview repository. Search-engine exclusion is advisory, not access control.
